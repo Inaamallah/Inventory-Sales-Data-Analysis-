@@ -1,4 +1,4 @@
-📊 Data Analysis Project — From Raw Data to Business Insights
+Data Analysis Project — From Raw Data to Business Insights
 
 This project demonstrates a complete data analysis pipeline — from data ingestion to interactive visualization.
 The workflow includes:
@@ -13,4 +13,4 @@ Dashboard Creation: Presenting findings through an interactive dashboard for bet
 
 Business Problem Focused: Each analysis step is aligned with solving a specific business problem, turning data into actionable insights.
 
-🚀 A complete end-to-end data analytics solution showcasing skills in Python, Pandas, SQLAlchemy, Matplotlib, Seaborn, and Dashboard Design.
+A complete end-to-end data analytics solution showcasing skills in Python, Pandas, SQLAlchemy, Matplotlib, Seaborn, and Dashboard Design.
